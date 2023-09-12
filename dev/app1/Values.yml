@@ -2,6 +2,6 @@
 
 image:
   repository: nginx
-  tag: ""
+  tag: "latest"
 
 appName: nginx
